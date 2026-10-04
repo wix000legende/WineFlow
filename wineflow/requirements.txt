@@ -1,0 +1,2 @@
+# WineFlow Dependencies
+# Standard library is used for core logic, no heavy external dependencies required for core CLI.
